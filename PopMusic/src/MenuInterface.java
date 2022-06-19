@@ -155,8 +155,6 @@ public class MenuInterface {
 	public void searchByKeyMenu(Scanner sc) {
 		System.out.println("You have chosen to search for a song! Proceed to next steps.");
 
-		System.out.println("Here are the list of the songs: ");
-
 		System.out.println("Enter the song's title: ");
 		String title1 = sc.nextLine();
 
